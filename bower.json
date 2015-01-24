@@ -1,0 +1,10 @@
+{
+  "name": "angular-ui-sortable-ds",
+  "version": "0.1.0",
+  "homepage": "https://github.com/DoubleSpring/angular-ui-sortable",
+  "authors": [
+    "sachinchoolur <sachi77n@gmail.com.>"
+  ],
+  "main": "sortable.js",
+  "license": "MIT"
+}
